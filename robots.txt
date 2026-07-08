@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olibclarke.github.io/sitemap.xml
